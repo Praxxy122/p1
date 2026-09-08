@@ -1,1 +1,1 @@
-print("sandy")
+print("sand")
